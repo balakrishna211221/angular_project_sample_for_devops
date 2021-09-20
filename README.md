@@ -1,0 +1,1 @@
+# angular_project_sample_for_devops
